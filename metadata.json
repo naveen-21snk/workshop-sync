@@ -1,0 +1,5 @@
+{
+  "name": "Workshop Registration & Confirmation App",
+  "description": "A full-stack MVC application for managing, tracking, and confirming workshop registrations with elegant analytics dashboards.",
+  "requestFramePermissions": []
+}
