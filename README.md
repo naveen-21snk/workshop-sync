@@ -2,6 +2,8 @@
 
 A full-stack workshop registration system built with React, Vite, Express, and MongoDB. The app lets organizers register participants, track workshop attendance, view dashboard analytics, and print confirmation vouchers for each attendee.
 
+## live demo - https://zesty-puppy-36b95f.netlify.app/
+
 ## ✨ Features
 
 - Register participants through a polished form with frontend validation
